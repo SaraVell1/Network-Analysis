@@ -1,2 +1,2 @@
 # Network-Analysis
-Repository for the final project of the Netwrok Analysis' course.
+Repository for the final project of the Network Analysis' course.
